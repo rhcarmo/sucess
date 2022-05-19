@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+}
+
+.messages {
+background-color: #E74C3C;
+color: white;
+border-radius: 5px;
+padding: 8px 16px;
+margin-bottom: 10px;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
